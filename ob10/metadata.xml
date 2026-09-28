@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cem:cem xmlns:cem="https://sena.blackboard.com/ova/bilinguismo/cem/ns/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://sena.blackboard.com/ova/bilinguismo/cem/ns/2.0/ https://sena.blackboard.com/ova/bilinguismo/CEM_SENA.xsd">
+<cem:general>
+<cem:language>en</cem:language>
+<cem:identifier>
+<cem:catalog catName="RED" catSource="http://www.mineducacion.gov.co/">HT9542VM05U</cem:catalog>
+</cem:identifier>
+<cem:identifier>
+<cem:catalog catName="SENA" catSource="https://sena.blackboard.com/ova/bilinguismo/">IDI-CON-OBJ-001-n11-10-10-2</cem:catalog>
+</cem:identifier>
+<cem:identifier>
+<cem:catalog catName="eDistribution" catSource="http://www.edistribution.co/">engenn11le10ob10re2</cem:catalog>
+</cem:identifier>
+<cem:title lang="en" subtitle="">Check Your Progress!</cem:title>
+<cem:description lang="en">Check Your Progress: it is the sixth resource of "Down Memory Lane" that makes part of the lesson No: 10, Reminiscing With Friends, which belongs to English teaching Upper-intermediate (B2.3), is intended to assess the student's knowledge.</cem:description>
+<cem:keyword lang="en">
+<cem:li/>
+</cem:keyword>
+<cem:coverage>
+<cem:timeName schema="ITESO"/>
+<cem:timeMoment schema="fixed">0000</cem:timeMoment>
+<cem:axialPlace axis="X" schema="UTM"/>
+<cem:hierarchical city="" content="" continent="unknown" country="" region="" schema="WORLD" state="" zone=""/>
+</cem:coverage>
+<cem:structure schema="CEM">Atómica</cem:structure>
+<cem:aggregationLevel schema="CEM">Bajo</cem:aggregationLevel>
+</cem:general>
+<cem:lifeCycle>
+<cem:version date="2017-07-17">1.0</cem:version>
+<cem:status>Publicado</cem:status>
+</cem:lifeCycle>
+<cem:metaMetadata>
+<cem:identifier>
+<cem:catalog catName="RED" catSource="http://www.mineducacion.gov.co/">HT9542VM05U_META</cem:catalog>
+</cem:identifier>
+<cem:identifier>
+<cem:catalog catName="SENA" catSource="https://sena.blackboard.com">IDI-CON-OBJ-001-n11-10-10-2_META</cem:catalog>
+</cem:identifier>
+<cem:identifier>
+<cem:catalog catName="eDistribution" catSource="http://www.edistribution.co/">engenn11le10ob10re2_META</cem:catalog>
+</cem:identifier>
+<cem:contribute>
+<cem:role schema="CEM">Catalogador</cem:role>
+<cem:entity country="CO" entityForm="" institution="eDistribution" src="contacto@edistribution.co" type="Persona">Hurtado Castro, Paola</cem:entity>
+<cem:date>2017-07-17</cem:date>
+</cem:contribute>
+<cem:metadataSchema>CEM 2.0</cem:metadataSchema>
+<cem:language>es</cem:language>
+</cem:metaMetadata>
+<cem:technical>
+<cem:format codec="" extension="zip">application/zip</cem:format>
+<cem:size>13MB</cem:size>
+<cem:location src="https://sena.blackboard.com/webapps/cmsmain/webui/institution/SENA-FUENTES/Idiomas/51250061?action=frameset&amp;subaction=view&amp;uniq=-cvz022&amp;mask=%2Finstitution" storage="https://sena.blackboard.com/webapps/cmsmain/webui/institution/SENA/Idiomas/51250061/Contenido/OVA?action=frameset&amp;subaction=view&amp;uniq=-cvzzya&amp;mask=%2Finstitution%2FSENA%2FIdiomas%2F51250043%2FContenido">https://sena.blackboard.com/bbcswebdav/institution/SENA/Idiomas/51250061/Contenido/OVA/engenn11le10ob10re2.zip</cem:location>
+<cem:requirement>
+<cem:orComposite>
+<cem:type>Software</cem:type>
+<cem:name>Google Chrome</cem:name>
+<cem:minimumVersion>32.0.1700</cem:minimumVersion>
+<cem:maximumVersion>54</cem:maximumVersion>
+</cem:orComposite>
+<cem:orComposite>
+<cem:type>Software</cem:type>
+<cem:name>Mozilla Firefox</cem:name>
+<cem:minimumVersion>42.0</cem:minimumVersion>
+<cem:maximumVersion>49</cem:maximumVersion>
+</cem:orComposite>
+<cem:orComposite>
+<cem:type>Software</cem:type>
+<cem:name>Internet Explorer</cem:name>
+<cem:minimumVersion>11.0.9600.16428</cem:minimumVersion>
+<cem:maximumVersion>11.0.9600.16428</cem:maximumVersion>
+</cem:orComposite>
+<cem:orComposite>
+<cem:type>Software</cem:type>
+<cem:name>Android</cem:name>
+<cem:minimumVersion>4.4.4</cem:minimumVersion>
+<cem:maximumVersion>5.1</cem:maximumVersion>
+</cem:orComposite>
+</cem:requirement>
+<cem:installationRemarks kind="" lang="es" src=""/>
+<cem:otherPlatformRequirements kind="" lang="es" src=""/>
+<cem:duration>0</cem:duration>
+<cem:accessibility>
+<cem:subtittled lang="en">false</cem:subtittled>
+<cem:audioDescription lang="en">true</cem:audioDescription>
+<cem:signLanguage>false</cem:signLanguage>
+<cem:textBrowser>false</cem:textBrowser>
+<cem:changeSizeOfLetter>false</cem:changeSizeOfLetter>
+<cem:changeColorAndContrast>false</cem:changeColorAndContrast>
+</cem:accessibility>
+<cem:image fileName="" size="TS" src="" type=""/>
+</cem:technical>
+<cem:educational>
+<cem:interactivityType schema="LOM">Activo</cem:interactivityType>
+<cem:resourceType schema="MEN">
+<cem:levelOne value="Recurso Educativo Digital">
+<cem:levelTwo levelFive="" levelFour="" levelThree="Recurso Educativo Digital">Granularidad</cem:levelTwo>
+<cem:levelTwo/>
+<cem:levelTwo levelFive="" levelFour="" levelThree="Ejercicio">Intencionalidad didáctica</cem:levelTwo>
+<cem:levelTwo levelFive="" levelFour="" levelThree="Conceptual">Intencionalidad pedagógica</cem:levelTwo>
+</cem:levelOne>
+</cem:resourceType>
+<cem:interactivityLevel schema="LOM">Media</cem:interactivityLevel>
+<cem:semanticDensity schema="LOM">Alta</cem:semanticDensity>
+<cem:intentedEndUserRole populationGroup="Todas" schema="MEN">Estudiante de Educación Superior</cem:intentedEndUserRole>
+<cem:context educativeLevel="Educación Superior" gradeGroup="Upper intermediate (B2.3)" schema="SENA" subLevel="Técnica Profesional"/>
+<cem:context educativeLevel="Educación Superior" gradeGroup="Upper intermediate (B2.3)" schema="SENA" subLevel="Tecnológica"/>
+<cem:typicalAgeRange ageFrom="15" ageTo="99"/>
+<cem:difficulty schema="LOM">Alta</cem:difficulty>
+<cem:typicalLearningTime>0:4h/m</cem:typicalLearningTime>
+<cem:description>
+<cem:recommendedUse lang="en">This educational digital resource can be used to evaluate what the students have learned.</cem:recommendedUse>
+<cem:triggerQuestion lang="en"/>
+<cem:pedagogicalAspect lang="en">This resource permits the students to evaluate what they have learned.</cem:pedagogicalAspect>
+<cem:learningGoal lang="en"/>
+</cem:description>
+</cem:educational>
+<cem:rights>
+<cem:cost currency="COP">Gratuito</cem:cost>
+<cem:copyrightsAndOtherRestrictions lang="es" license="CC BY-NC-ND" providerCountry="CO" rightsHolder="Servicio Nacional de Aprendizaje SENA" scope="CO" src="http://creativecommons.org/licenses/by-nc-nd/2.5/co/" type="Institución" version="2.5 Colombia" year="2014"> Creative Commons — Atribución­NoComercial­SinDerivadas 2.5 Colombia — CC BY­NC­ND 2.5 CO</cem:copyrightsAndOtherRestrictions>
+<cem:permission copy="true" download="false" edit="false" periodFrom="2014" periodTo="Indefinido" print="true" view="true"/>
+</cem:rights>
+<cem:annotation>
+<cem:entity country="unknown" entityForm="" institution="eDistribution SAS" src="" type="Persona">SENA</cem:entity>
+<cem:date>2017-07-17</cem:date>
+<cem:description lang="es"/>
+<cem:getRatingURI/>
+<cem:getCommentsURI/>
+</cem:annotation>
+<cem:classification>
+<cem:purpose lang="es">Facilitar la búsqueda y recuperación de los recursos educativos digitales para la enseñanza de lenguas mediante criterios taxonómicos relacionados con los núcleos básicos del conocimiento y los estándares básicos de competencias.</cem:purpose>
+<cem:taxonPath schema="MEN">
+<cem:levelOne value="Núcleos básicos de conocimiento">
+<cem:levelTwo levelThree="Lenguas modernas, Literatura, Lingüística y afines">Ciencias sociales y humanas</cem:levelTwo>
+</cem:levelOne>
+</cem:taxonPath>
+<cem:taxonPath schema="DEWEY">
+<cem:levelOne value="400">
+<cem:levelTwo levelThree="420">Inglés e inglés antiguo</cem:levelTwo>
+</cem:levelOne>
+</cem:taxonPath>
+<cem:taxonPath schema="MEN">
+<cem:levelOne value="En relación con estándares básicos de competencia">
+<cem:levelTwo levelThree="'v' Habilidades de producción: Comunicación">Lenguas extranjeras</cem:levelTwo>
+</cem:levelOne>
+</cem:taxonPath>
+<cem:taxonPath schema="SENA">
+<cem:levelOne value="Comunicación en inglés B2.3 INTERMEDIO ALTO">
+<cem:levelTwo levelThree="51250061">Red institucional de enseñanza de idiomas</cem:levelTwo>
+</cem:levelOne>
+</cem:taxonPath>
+<cem:description lang="es"/>
+<cem:keyword lang="es">
+<cem:li>Bilingüismo |Inglés| Upper intermediate (B2.3)</cem:li>
+</cem:keyword>
+</cem:classification>
+</cem:cem>
